@@ -1,0 +1,15 @@
+aniso8601==9.0.1
+certifi==2021.10.8
+click==8.0.4
+Flask==2.0.3
+Flask-RESTful==0.3.9
+flask_cors
+importlib-metadata==4.11.1
+itsdangerous==2.1.0
+Jinja2==3.0.3
+MarkupSafe==2.1.0
+pytz==2021.3
+# six @ file:///tmp/build/80754af9/six_1644875935023/work
+typing_extensions==4.1.1
+# Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+zipp==3.7.0
